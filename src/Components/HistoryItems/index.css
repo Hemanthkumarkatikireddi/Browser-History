@@ -1,0 +1,44 @@
+.search-list {
+  list-style: none;
+  display: flex;
+  margin: 15px;
+  width: 100%;
+}
+.class-time {
+  font-weight: bold;
+  color: #64748b;
+}
+.box-1 {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+}
+.sub-box {
+  display: flex;
+  width: 87%;
+}
+.logo-image {
+  height: 25px;
+  width: 25px;
+  margin: 0px 10px;
+}
+.title-name {
+  margin: 0px 15px;
+  font-weight: bold;
+  color: #64748b;
+}
+.url-link {
+  margin: 0px 15px;
+}
+.box-2 {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+  width: 20%;
+  margin: 15px;
+  padding-right: 20px;
+}
+.deleteButton {
+  border: 0px;
+  background-color: #ffffff;
+}
