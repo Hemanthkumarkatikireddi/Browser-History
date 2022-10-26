@@ -3,6 +3,7 @@
   display: flex;
   margin: 15px;
   width: 100%;
+  align-items: center;
 }
 .class-time {
   font-weight: bold;
@@ -41,4 +42,31 @@
 .deleteButton {
   border: 0px;
   background-color: #ffffff;
+}
+@media screen and (min-width: 300px) {
+  .search-list {
+    font-size: 10px;
+  }
+  .logo-image {
+    height: 15px;
+    width: 15px;
+  }
+}
+@media screen and (min-width: 568px) {
+  .search-list {
+    font-size: 12px;
+  }
+  .logo-image {
+    height: 20px;
+    width: 20px;
+  }
+}
+@media screen and (min-width: 992px) {
+  .search-list {
+    font-size: 15px;
+  }
+  .logo-image {
+    height: 25px;
+    width: 25px;
+  }
 }
