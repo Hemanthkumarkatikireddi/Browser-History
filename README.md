@@ -1,4 +1,4 @@
-In this project, let's build a **Browser History** app by applying the concepts we have learned till now.
+Browser History 
 
 ### Refer to the image below:
 
@@ -101,11 +101,6 @@ The app must have the following functionalities
 
 - Roboto
 
-</details>
 
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
+
+
